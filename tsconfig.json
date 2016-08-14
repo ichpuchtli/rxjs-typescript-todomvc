@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "watch": false,
+        "removeComments": false
+    },
+    "files": [
+        "js/app.ts"
+    ]
+}
